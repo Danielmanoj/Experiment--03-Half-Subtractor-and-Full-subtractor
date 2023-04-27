@@ -63,7 +63,7 @@ endmodule
 
 
 ## Output:
-HALF SUBTRACTOR:
+##HALF SUBTRACTOR:
 
 ## Truthtable
 ![image](https://user-images.githubusercontent.com/69635071/234769539-f1437f34-af52-4da0-8270-2de1822240cb.png)
@@ -79,7 +79,7 @@ HALF SUBTRACTOR:
 ## Timing diagram 
 ![image](https://user-images.githubusercontent.com/69635071/234769678-f1a9dc54-5645-4562-a2fb-13c2dd14c057.png)
 
-FULL SUBTRACTOR:
+##FULL SUBTRACTOR:
 
 ## Truthtable
 ![image](https://user-images.githubusercontent.com/69635071/234770208-236ce80c-8cde-4b7a-88d6-bc6ae85e9f2b.png)
